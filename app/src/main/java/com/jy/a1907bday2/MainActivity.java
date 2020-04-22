@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         String s = "111";
         String n = "222";
-		String n = "777";
         String n = "本地  10101010";
+
 
 
     }
